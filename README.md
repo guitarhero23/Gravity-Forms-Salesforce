@@ -1,7 +1,4 @@
->
-> Aug 16, 2016
-> # [gravity+](https://gravityplus.pro/?utm_source=github&utm_medium=link&utm_content=readme&utm_campaign=gravity-forms-salesforce) will be giving this plugin some much needed love and attention! [Sign up here for details on the upcoming changes and how to prepare](https://gravityplus.pro/gravity-forms-salesforce/?utm_source=github&utm_medium=link&utm_content=readme&utm_campaign=gravity-forms-salesforce)
->
+Update 3/21/2018: This plugin is no longer being updated by the developer and has sold/given control to a company called gravityplus who has rewritten it. Salesforce has deprecated the web2lead and web2case endpoints as originally coded. This version is a fork with only the endpoint changed so that it can continue to work as designed. This change occurs in inc/web-to-lead.php
 
 Gravity Forms Salesforce Add-on
 ========================
